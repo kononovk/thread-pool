@@ -1,5 +1,5 @@
 # Thread pool
-Very simple thread pool implementation for studying purposes
+Thread pool implementation
 
 ```C++
 utils::thread_pool tp(1);
